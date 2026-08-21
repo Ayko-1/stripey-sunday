@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "src": "mockups/images/paris-balcony.jpg",
+      "name": "Hotel du Petit Moulin",
+      "meta": "Paris · 2025"
+    },
+    {
+      "src": "mockups/images/bali-pool.jpg",
+      "name": "Ubud Estate",
+      "meta": "Bali · 2024"
+    },
+    {
+      "src": "mockups/images/brick-interior.jpg",
+      "name": "Casa Velha",
+      "meta": "Lisbon · 2024"
+    },
+    {
+      "src": "mockups/images/breakfast.jpg",
+      "name": "Morning Spread",
+      "meta": "Paris · 2025"
+    },
+    {
+      "src": "mockups/images/bathroom.jpg",
+      "name": "The Suite",
+      "meta": "Copenhagen · 2024"
+    },
+    {
+      "src": "mockups/images/pool-swimmer.jpg",
+      "name": "Casa del Mar",
+      "meta": "Tulum · 2024"
+    },
+    {
+      "src": "mockups/images/cliff-pool.jpg",
+      "name": "Cliff Pool",
+      "meta": "Bintan · 2025"
+    },
+    {
+      "src": "mockups/images/cliffside-dinner.jpg",
+      "name": "Lunch with a View",
+      "meta": "Bintan · 2025"
+    },
+    {
+      "src": "mockups/images/golden-hour.jpg",
+      "name": "Golden Hour",
+      "meta": "Lombok · 2025"
+    },
+    {
+      "src": "mockups/images/slow-afternoon.jpg",
+      "name": "Slow Afternoons",
+      "meta": "Lombok · 2025"
+    },
+    {
+      "src": "mockups/images/plates.jpg",
+      "name": "Plates",
+      "meta": "Bintan · 2025"
+    },
+    {
+      "src": "mockups/images/the-catch.jpg",
+      "name": "The Catch",
+      "meta": "Bintan · 2025"
+    },
+    {
+      "src": "mockups/images/open-living.jpg",
+      "name": "Open Living",
+      "meta": "Ubud · 2025",
+      "featured": true
+    },
+    {
+      "src": "mockups/images/behind-the-lens.jpg",
+      "name": "Behind the Lens",
+      "meta": "Ubud · 2025",
+      "featured": true
+    }
+  ]
+}

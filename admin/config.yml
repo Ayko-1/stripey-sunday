@@ -1,0 +1,60 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Sveltia CMS — stripey sunday
+# Light Git-based CMS so Aliyah can edit photos without touching code.
+# Docs: https://github.com/sveltia/sveltia-cms
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Backend: GitHub, via Sveltia's hosted OAuth proxy (no OAuth app to set up).
+# Before first use, replace YOUR-GITHUB-USERNAME below with the GitHub
+# account/owner that hosts the repo. Branch is whatever the default branch is.
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/stripey-sunday
+  branch: main
+  base_url: https://api.sveltia.com
+  auth_endpoint: api/auth
+
+# Where uploaded images land, and the public URL prefix Sveltia serves them from.
+media_folder: "mockups/images"
+public_folder: "/mockups/images"
+
+# ─── Collections ────────────────────────────────────────────────────────────
+collections:
+  - name: "photos"
+    label: "Photos"
+    label_singular: "Photo"
+    description: "The stays gallery. Drag to reorder. Toggle Featured to make a photo render as a wider half-width cell."
+    files:
+      - name: "photos-data"
+        label: "Photo gallery"
+        file: "data/photos.json"
+        format: "json"
+        fields:
+          - name: "items"
+            label: "Photos"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.meta}}"
+            fields:
+              - name: "src"
+                label: "Image"
+                widget: "image"
+                allow_multiple: false
+                hint: "Drag a new image in to upload, or pick an existing one from /mockups/images/."
+              - name: "name"
+                label: "Caption (big text)"
+                widget: "string"
+                hint: "Hotel name, room name, or short title. Shown in bold over the photo on hover."
+              - name: "meta"
+                label: "Meta (small text under caption)"
+                widget: "string"
+                hint: "Format: City · Year, e.g. 'Bintan · 2025'."
+              - name: "featured"
+                label: "Featured (renders wider, half-width)"
+                widget: "boolean"
+                required: false
+                default: false
+                hint: "Turn on for the 2 photos that should appear in the wide closing pair. Leave off for normal 3-per-row photos."
+
+# ─── Settings ───────────────────────────────────────────────────────────────
+publish_mode: editorial_workflow
+locale: en
