@@ -38,7 +38,6 @@ collections:
               - name: "src"
                 label: "Image"
                 widget: "image"
-                allow_multiple: false
                 hint: "Drag a new image in to upload, or pick an existing one from /mockups/images/."
               - name: "name"
                 label: "Caption (big text)"
