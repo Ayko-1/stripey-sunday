@@ -4,15 +4,14 @@
 # Docs: https://github.com/sveltia/sveltia-cms
 # ─────────────────────────────────────────────────────────────────────────────
 
-# Backend: GitHub, via Sveltia's hosted OAuth proxy (no OAuth app to set up).
-# Before first use, replace YOUR-GITHUB-USERNAME below with the GitHub
-# account/owner that hosts the repo. Branch is whatever the default branch is.
+# Backend: GitHub. Uses Personal Access Token (PAT) for sign-in.
+# Sveltia's previously-hosted OAuth proxy (api.sveltia.com) was shut down,
+# so until the Cloudflare Worker is set up, we use a PAT.
+# See README on how to create one (Settings → Developer settings → Tokens).
 backend:
   name: github
   repo: Ayko-1/stripey-sunday
   branch: main
-  base_url: https://api.sveltia.com
-  auth_endpoint: api/auth
 
 # Where uploaded images land, and the public URL prefix Sveltia serves them from.
 media_folder: "mockups/images"
