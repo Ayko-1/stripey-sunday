@@ -9,7 +9,7 @@
 # account/owner that hosts the repo. Branch is whatever the default branch is.
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/stripey-sunday
+  repo: Ayko-1/stripey-sunday
   branch: main
   base_url: https://api.sveltia.com
   auth_endpoint: api/auth
