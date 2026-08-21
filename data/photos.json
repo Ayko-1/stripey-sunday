@@ -71,6 +71,105 @@
       "name": "Behind the Lens",
       "meta": "Ubud · 2025",
       "featured": true
+    },
+
+    {
+      "src": "mockups/images/kl-pool-skyline.jpg",
+      "name": "Skyline at Dusk",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-petronas-night.jpg",
+      "name": "Twin Towers",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-corridor.jpg",
+      "name": "The Long Hall",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-pool-skyline-2.jpg",
+      "name": "Twilight Pool",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-pool-empty.jpg",
+      "name": "Infinity",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-pool-day.jpg",
+      "name": "Daylight",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-desk-view.jpg",
+      "name": "Working with a View",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-gym-pushups.jpg",
+      "name": "Morning Workout",
+      "meta": "Kuala Lumpur · 2025"
+    },
+    {
+      "src": "mockups/images/kl-table-view.jpg",
+      "name": "Pendant Lights",
+      "meta": "Kuala Lumpur · 2025"
+    },
+
+    {
+      "src": "mockups/images/mar-gym.jpg",
+      "name": "The Gym, Glow",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-pillows.jpg",
+      "name": "Tea & Cushions",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-tile-door.jpg",
+      "name": "The Tile Door",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-dark-door.jpg",
+      "name": "Through the Doorway",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-bathrobes.jpg",
+      "name": "Robes",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-courtyard.jpg",
+      "name": "The Courtyard",
+      "meta": "Marrakech · 2025",
+      "featured": true
+    },
+    {
+      "src": "mockups/images/mar-rain.jpg",
+      "name": "After the Rain",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-stucco.jpg",
+      "name": "Carved Stone",
+      "meta": "Marrakech · 2025"
+    },
+    {
+      "src": "mockups/images/mar-ceiling.jpg",
+      "name": "The Ceiling",
+      "meta": "Marrakech · 2025",
+      "featured": true
+    },
+    {
+      "src": "mockups/images/mar-terrace.jpg",
+      "name": "Olive Terrace",
+      "meta": "Marrakech · 2025"
     }
   ]
 }
