@@ -322,6 +322,21 @@
       "src": "mockups/images/kas-9565.jpg",
       "name": "The Mirror",
       "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/sa-game-drive.jpg",
+      "name": "Game Drive",
+      "meta": "South Africa · 2026"
+    },
+    {
+      "src": "mockups/images/sa-elephant.jpg",
+      "name": "The Elephant",
+      "meta": "South Africa · 2026"
+    },
+    {
+      "src": "mockups/images/sa-herd.jpg",
+      "name": "At the Watering Hole",
+      "meta": "South Africa · 2026"
     }
   ]
 }
