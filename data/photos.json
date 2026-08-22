@@ -72,7 +72,6 @@
       "meta": "Ubud · 2025",
       "featured": true
     },
-
     {
       "src": "mockups/images/kl-pool-skyline.jpg",
       "name": "Skyline at Dusk",
@@ -118,7 +117,6 @@
       "name": "Pendant Lights",
       "meta": "Kuala Lumpur · 2025"
     },
-
     {
       "src": "mockups/images/mar-gym.jpg",
       "name": "The Gym, Glow",
@@ -172,51 +170,98 @@
       "meta": "Marrakech · 2025"
     },
     {
-      "src": "mockups/images/mar-tea.jpg",
+      "src": "mockups/images/kas-tea.jpg",
       "name": "Herbal Tea",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-kitchen.jpg",
+      "src": "mockups/images/kas-kitchen.jpg",
       "name": "The Kitchen",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-outdoor-table.jpg",
+      "src": "mockups/images/kas-outdoor-table.jpg",
       "name": "Lunch Under the Straw",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-pool.jpg",
+      "src": "mockups/images/kas-pool.jpg",
       "name": "The Pool",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-lounger.jpg",
+      "src": "mockups/images/kas-lounger.jpg",
       "name": "Shade",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-window.jpg",
+      "src": "mockups/images/kas-window.jpg",
       "name": "Through the Window",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-grill.jpg",
+      "src": "mockups/images/kas-grill.jpg",
       "name": "The Grill",
-      "meta": "Marrakech · 2025"
+      "meta": "Kaş · 2025"
     },
     {
-      "src": "mockups/images/mar-chef.jpg",
+      "src": "mockups/images/kas-chef.jpg",
       "name": "The Chef",
-      "meta": "Marrakech · 2025",
+      "meta": "Kaş · 2025",
       "featured": true
     },
     {
-      "src": "mockups/images/mar-hosts.jpg",
+      "src": "mockups/images/kas-hosts.jpg",
       "name": "The Hosts",
-      "meta": "Marrakech · 2025",
+      "meta": "Kaş · 2025",
       "featured": true
+    },
+    {
+      "src": "mockups/images/ant-billiards.jpg",
+      "name": "Billiards",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-suite.jpg",
+      "name": "Suite with a Plunge",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-living.jpg",
+      "name": "The Living Room",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-plunge.jpg",
+      "name": "Plunge",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-kitchen.jpg",
+      "name": "The Kitchen",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-great-room.jpg",
+      "name": "The Great Room",
+      "meta": "Antalya · 2025",
+      "featured": true
+    },
+    {
+      "src": "mockups/images/ant-bay.jpg",
+      "name": "Above the Bay",
+      "meta": "Antalya · 2025",
+      "featured": true
+    },
+    {
+      "src": "mockups/images/ant-swim.jpg",
+      "name": "Swim",
+      "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/ant-peaches.jpg",
+      "name": "The Peaches",
+      "meta": "Antalya · 2025"
     }
   ]
 }
