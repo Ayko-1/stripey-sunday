@@ -262,6 +262,36 @@
       "src": "mockups/images/ant-peaches.jpg",
       "name": "The Peaches",
       "meta": "Antalya · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0847.jpg",
+      "name": "Poolside",
+      "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0567.jpg",
+      "name": "The View",
+      "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0573.jpg",
+      "name": "The Suite",
+      "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0575.jpg",
+      "name": "Banana Pool",
+      "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0577.jpg",
+      "name": "Double Height",
+      "meta": "Kaş · 2025"
+    },
+    {
+      "src": "mockups/images/kas-0247.jpg",
+      "name": "Together",
+      "meta": "Kaş · 2025"
     }
   ]
 }
