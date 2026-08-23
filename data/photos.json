@@ -143,26 +143,26 @@
       "meta": "Marrakech · 2025"
     },
     {
+      "src": "mockups/images/mar-rain.jpg",
+      "name": "After the Rain",
+      "meta": "Marrakech · 2025"
+    },
+    {
       "src": "mockups/images/mar-courtyard.jpg",
       "name": "The Courtyard",
       "meta": "Marrakech · 2025",
       "featured": true
     },
     {
-      "src": "mockups/images/mar-rain.jpg",
-      "name": "After the Rain",
-      "meta": "Marrakech · 2025"
+      "src": "mockups/images/mar-ceiling.jpg",
+      "name": "The Ceiling",
+      "meta": "Marrakech · 2025",
+      "featured": true
     },
     {
       "src": "mockups/images/mar-stucco.jpg",
       "name": "Carved Stone",
       "meta": "Marrakech · 2025"
-    },
-    {
-      "src": "mockups/images/mar-ceiling.jpg",
-      "name": "The Ceiling",
-      "meta": "Marrakech · 2025",
-      "featured": true
     },
     {
       "src": "mockups/images/mar-terrace.jpg",
@@ -242,6 +242,11 @@
       "meta": "Antalya · 2025"
     },
     {
+      "src": "mockups/images/ant-swim.jpg",
+      "name": "Swim",
+      "meta": "Antalya · 2025"
+    },
+    {
       "src": "mockups/images/ant-great-room.jpg",
       "name": "The Great Room",
       "meta": "Antalya · 2025",
@@ -252,11 +257,6 @@
       "name": "Above the Bay",
       "meta": "Antalya · 2025",
       "featured": true
-    },
-    {
-      "src": "mockups/images/ant-swim.jpg",
-      "name": "Swim",
-      "meta": "Antalya · 2025"
     },
     {
       "src": "mockups/images/ant-peaches.jpg",
