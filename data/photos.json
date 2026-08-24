@@ -14,12 +14,6 @@
     },
     {
       "src": "/mockups/images/ant-bay.jpg",
-      "name": "Foliage",
-      "meta": "S'ekar Pinang Langkawi",
-      "featured": false
-    },
-    {
-      "src": "/mockups/images/ant-bay.jpg",
       "name": "S'ekar Pinang",
       "meta": "Langkawi",
       "featured": false
@@ -46,12 +40,6 @@
       "src": "mockups/images/cliff-pool.jpg",
       "name": "Infinity Pool",
       "meta": "The Ritz-Carlton Langkawi",
-      "featured": false
-    },
-    {
-      "src": "/mockups/images/ant-bay.jpg",
-      "name": "Golden Hour",
-      "meta": "Lombok · 2025",
       "featured": false
     },
     {
@@ -135,12 +123,6 @@
     {
       "src": "mockups/images/kl-table-view.jpg",
       "name": "Pendant Lights",
-      "meta": "Penang",
-      "featured": false
-    },
-    {
-      "src": "mockups/images/mar-gym.jpg",
-      "name": "The Gym",
       "meta": "Penang",
       "featured": false
     },
@@ -327,12 +309,6 @@
     {
       "src": "mockups/images/kas-0575.jpg",
       "name": "Banana Pool",
-      "meta": "Kaş",
-      "featured": false
-    },
-    {
-      "src": "mockups/images/kas-0577.jpg",
-      "name": "Double Height",
       "meta": "Kaş",
       "featured": false
     },
