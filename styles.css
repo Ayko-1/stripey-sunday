@@ -347,7 +347,7 @@ a {
 .about__media {
   margin: 0;
   position: relative;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   background: var(--paper);
   box-shadow: 0 30px 60px -30px rgba(20, 8, 0, 0.25);
@@ -539,7 +539,8 @@ a {
   }
   .about__media {
     aspect-ratio: 4 / 5;
-    max-height: 70vh;
+    max-width: 520px;
+    margin: 0 auto;
   }
 }
 

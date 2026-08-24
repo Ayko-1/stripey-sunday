@@ -55,12 +55,6 @@
       "featured": false
     },
     {
-      "src": "mockups/images/the-catch.jpg",
-      "name": "Catch of the Day",
-      "meta": "The Ritz-Carlton Langkawi",
-      "featured": false
-    },
-    {
       "src": "mockups/images/open-living.jpg",
       "name": "Open Living",
       "meta": "S'ekar Pinang",
@@ -71,6 +65,12 @@
       "name": "Behind the Lens",
       "meta": "S'ekar Pinang",
       "featured": true
+    },
+    {
+      "src": "mockups/images/the-catch.jpg",
+      "name": "Catch of the Day",
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-pool-skyline.jpg",
