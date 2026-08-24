@@ -329,6 +329,93 @@ a {
   opacity: 0.88;
 }
 
+/* ─── About — aliyah & osman ─── */
+.about {
+  background: var(--cream);
+  padding: clamp(80px, 12vw, 160px) var(--gutter);
+}
+
+.about__inner {
+  max-width: var(--max, 1200px);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 5fr 6fr;
+  gap: clamp(32px, 5vw, 72px);
+  align-items: center;
+}
+
+.about__media {
+  margin: 0;
+  position: relative;
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  background: var(--paper);
+  box-shadow: 0 30px 60px -30px rgba(20, 8, 0, 0.25);
+}
+
+.about__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  transition: transform 1400ms var(--ease-quint);
+}
+
+.about__media:hover img {
+  transform: scale(1.03);
+}
+
+.about__kicker {
+  margin: 0 0 clamp(24px, 3vw, 40px);
+  font-family: var(--brand);
+  font-weight: 500;
+  font-size: clamp(40px, 5.4vw, 72px);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.about__kicker .amp {
+  color: var(--coral);
+  font-family: var(--display);
+  font-weight: 800;
+  font-style: italic;
+  font-size: 0.78em;
+  margin: 0 0.08em;
+  vertical-align: 0.02em;
+}
+
+.about__lede {
+  margin: 0 0 clamp(20px, 2.4vw, 28px);
+  font-size: clamp(16px, 1.35vw, 19px);
+  line-height: 1.55;
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.about__para {
+  margin: 0 0 clamp(16px, 2vw, 24px);
+  font-size: clamp(15px, 1.15vw, 17px);
+  line-height: 1.6;
+  color: var(--ink-2);
+}
+
+.about__para:last-child {
+  margin-bottom: 0;
+}
+
+.about__cta {
+  color: var(--coral);
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+  transition: color 200ms var(--ease-out), border-color 200ms var(--ease-out);
+}
+
+.about__cta:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
 /* ─── Contact — the deep teal counterpoint ─── */
 .contact {
   background: var(--teal);
@@ -443,6 +530,17 @@ a {
   .contact { padding: 80px 20px; }
 
   .foot__inner { flex-direction: column; gap: 6px; text-align: center; }
+}
+
+@media (max-width: 800px) {
+  .about__inner {
+    grid-template-columns: 1fr;
+    gap: clamp(28px, 6vw, 48px);
+  }
+  .about__media {
+    aspect-ratio: 4 / 5;
+    max-height: 70vh;
+  }
 }
 
 /* ─── Reduced motion ─── */
