@@ -2,341 +2,399 @@
   "items": [
     {
       "src": "mockups/images/paris-balcony.jpg",
-      "name": "Hotel du Petit Moulin",
-      "meta": "Paris · 2025"
+      "name": "Hotel de Banville",
+      "meta": "Paris",
+      "featured": false
     },
     {
-      "src": "mockups/images/bali-pool.jpg",
-      "name": "Ubud Estate",
-      "meta": "Bali · 2024"
+      "src": "mockups/images/pool-swimmer.jpg",
+      "name": "S'ekar Pinang",
+      "meta": "Langkawi",
+      "featured": false
     },
     {
-      "src": "mockups/images/brick-interior.jpg",
-      "name": "Casa Velha",
-      "meta": "Lisbon · 2024"
+      "src": "/mockups/images/ant-bay.jpg",
+      "name": "Foliage",
+      "meta": "S'ekar Pinang Langkawi",
+      "featured": false
+    },
+    {
+      "src": "/mockups/images/ant-bay.jpg",
+      "name": "S'ekar Pinang",
+      "meta": "Langkawi",
+      "featured": false
     },
     {
       "src": "mockups/images/breakfast.jpg",
       "name": "Morning Spread",
-      "meta": "Paris · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/bathroom.jpg",
       "name": "The Suite",
-      "meta": "Copenhagen · 2024"
-    },
-    {
-      "src": "mockups/images/pool-swimmer.jpg",
-      "name": "Casa del Mar",
-      "meta": "Tulum · 2024"
-    },
-    {
-      "src": "mockups/images/cliff-pool.jpg",
-      "name": "Cliff Pool",
-      "meta": "Bintan · 2025"
+      "meta": "Paris",
+      "featured": false
     },
     {
       "src": "mockups/images/cliffside-dinner.jpg",
       "name": "Lunch with a View",
-      "meta": "Bintan · 2025"
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
     },
     {
-      "src": "mockups/images/golden-hour.jpg",
+      "src": "mockups/images/cliff-pool.jpg",
+      "name": "Infinity Pool",
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
+    },
+    {
+      "src": "/mockups/images/ant-bay.jpg",
       "name": "Golden Hour",
-      "meta": "Lombok · 2025"
+      "meta": "Lombok · 2025",
+      "featured": false
     },
     {
       "src": "mockups/images/slow-afternoon.jpg",
       "name": "Slow Afternoons",
-      "meta": "Lombok · 2025"
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
     },
     {
       "src": "mockups/images/plates.jpg",
       "name": "Plates",
-      "meta": "Bintan · 2025"
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
     },
     {
       "src": "mockups/images/the-catch.jpg",
-      "name": "The Catch",
-      "meta": "Bintan · 2025"
+      "name": "Catch of the Day",
+      "meta": "The Ritz-Carlton Langkawi",
+      "featured": false
     },
     {
       "src": "mockups/images/open-living.jpg",
       "name": "Open Living",
-      "meta": "Ubud · 2025",
+      "meta": "S'ekar Pinang",
       "featured": true
     },
     {
       "src": "mockups/images/behind-the-lens.jpg",
       "name": "Behind the Lens",
-      "meta": "Ubud · 2025",
+      "meta": "S'ekar Pinang",
       "featured": true
     },
     {
       "src": "mockups/images/kl-pool-skyline.jpg",
       "name": "Skyline at Dusk",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-petronas-night.jpg",
       "name": "Twin Towers",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-corridor.jpg",
-      "name": "The Long Hall",
-      "meta": "Kuala Lumpur · 2025"
+      "name": "Skyline",
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-pool-skyline-2.jpg",
       "name": "Twilight Pool",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-pool-empty.jpg",
       "name": "Infinity",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-pool-day.jpg",
       "name": "Daylight",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Kuala Lumpur",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-desk-view.jpg",
       "name": "Working with a View",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Penang",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-gym-pushups.jpg",
       "name": "Morning Workout",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Penang",
+      "featured": false
     },
     {
       "src": "mockups/images/kl-table-view.jpg",
       "name": "Pendant Lights",
-      "meta": "Kuala Lumpur · 2025"
+      "meta": "Penang",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-gym.jpg",
-      "name": "The Gym, Glow",
-      "meta": "Marrakech · 2025"
+      "name": "The Gym",
+      "meta": "Penang",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-pillows.jpg",
       "name": "Tea & Cushions",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-tile-door.jpg",
       "name": "The Tile Door",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-dark-door.jpg",
       "name": "Through the Doorway",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-bathrobes.jpg",
       "name": "Robes",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-rain.jpg",
       "name": "After the Rain",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-courtyard.jpg",
       "name": "The Courtyard",
-      "meta": "Marrakech · 2025",
+      "meta": "Marrakech",
       "featured": true
     },
     {
       "src": "mockups/images/mar-ceiling.jpg",
       "name": "The Ceiling",
-      "meta": "Marrakech · 2025",
+      "meta": "Marrakech",
       "featured": true
     },
     {
       "src": "mockups/images/mar-stucco.jpg",
       "name": "Carved Stone",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-terrace.jpg",
       "name": "Olive Terrace",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-tea.jpg",
       "name": "Herbal Tea",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-kitchen.jpg",
       "name": "The Kitchen",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-outdoor-table.jpg",
       "name": "Lunch Under the Straw",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-pool.jpg",
       "name": "The Pool",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-lounger.jpg",
       "name": "Shade",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-window.jpg",
       "name": "Through the Window",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-grill.jpg",
       "name": "The Grill",
-      "meta": "Marrakech · 2025"
+      "meta": "Marrakech",
+      "featured": false
     },
     {
       "src": "mockups/images/mar-chef.jpg",
       "name": "The Chef",
-      "meta": "Marrakech · 2025",
+      "meta": "Marrakech",
       "featured": true
     },
     {
       "src": "mockups/images/mar-hosts.jpg",
-      "name": "The Hosts",
-      "meta": "Marrakech · 2025",
+      "name": "The Guests",
+      "meta": "Marrakech",
       "featured": true
     },
     {
       "src": "mockups/images/ant-billiards.jpg",
       "name": "Billiards",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-suite.jpg",
       "name": "Suite with a Plunge",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-living.jpg",
       "name": "The Living Room",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-plunge.jpg",
       "name": "Plunge",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-kitchen.jpg",
       "name": "The Kitchen",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-swim.jpg",
       "name": "Swim",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/ant-great-room.jpg",
       "name": "The Great Room",
-      "meta": "Antalya · 2025",
+      "meta": "Kaş",
       "featured": true
     },
     {
       "src": "mockups/images/ant-bay.jpg",
       "name": "Above the Bay",
-      "meta": "Antalya · 2025",
+      "meta": "Kaş",
       "featured": true
     },
     {
       "src": "mockups/images/ant-peaches.jpg",
       "name": "The Peaches",
-      "meta": "Antalya · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0847.jpg",
       "name": "Poolside",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0567.jpg",
       "name": "The View",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0573.jpg",
       "name": "The Suite",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0575.jpg",
       "name": "Banana Pool",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0577.jpg",
       "name": "Double Height",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-0247.jpg",
       "name": "Together",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9456.jpg",
       "name": "The Library",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9473.jpg",
       "name": "Morning Light",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9479.jpg",
       "name": "Stone Pantry",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9528.jpg",
       "name": "Reading by the Window",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9556.jpg",
       "name": "The Garden",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/kas-9565.jpg",
       "name": "The Mirror",
-      "meta": "Kaş · 2025"
+      "meta": "Kaş",
+      "featured": false
     },
     {
       "src": "mockups/images/sa-game-drive.jpg",
       "name": "Game Drive",
-      "meta": "South Africa · 2026"
+      "meta": "South Africa",
+      "featured": false
     },
     {
       "src": "mockups/images/sa-elephant.jpg",
-      "name": "The Elephant",
-      "meta": "South Africa · 2026"
+      "name": "Safari",
+      "meta": "South Africa",
+      "featured": false
     },
     {
       "src": "mockups/images/sa-herd.jpg",
       "name": "At the Watering Hole",
-      "meta": "South Africa · 2026"
+      "meta": "South Africa",
+      "featured": false
     }
   ]
 }
